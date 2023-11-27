@@ -4,6 +4,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import geopandas as gpd
 from streamlit_option_menu import option_menu
+import openpyxl
 
 df = pd.read_excel(r'OPENDATA_DS_01_AFILIADOS.xlsx',header=0)
 page_img="""
