@@ -5,3 +5,4 @@ matplotlib
 geopandas
 streamlit-option-menu
 openpyxl
+streamlit
